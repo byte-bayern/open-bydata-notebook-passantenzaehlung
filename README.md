@@ -1,16 +1,26 @@
-# Workshop: Passantenzählung in Würzburg analysieren
+# Data Story: Urbaner Puls - Passantenströme im Städtevergleich
 
-In Binder öffnen: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/byte-bayern/open-bydata-notebook-passantenzaehlung/b5afdcb946c75f0560f07e1b389d10779ddd0f8b?urlpath=lab%2Ftree%2Fpassantenzaehlung_data_story.ipynb)
+In dieser Data Story analysieren wir die Passantenfrequenz in Würzburg und vergleichen sie mit den Städten Augsburg und Bamberg. Die Analyse basiert auf öffentlich verfügbaren Daten der Passantenzählung.
+
+Würzburg: https://open.bydata.de/datasets/passantenzaehlung_stundendaten-wuerzburg~~2?locale=de
+
+Augsburg: https://open.bydata.de/datasets/passanten-annastrasse-augsburg?locale=de 
+
+Bamberg:  https://open.bydata.de/datasets/passantenfrequenzmessung?locale=de
+
+##
 
 In Google Colab öffnen: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/byte-bayern/open-bydata-notebook-passantenzaehlung/blob/main/passantenzaehlung_data_story.ipynb) (Google-Konto notwendig)
 
-## Workshop-Ziele und Inhalte
+Weitere Informationen über die Ausführungen von Notebooks findet man auf dieser [Repo](https://github.com/byte-bayern/open-bydata-notebooks).
 
-Dieser Workshop richtet sich an Einsteiger:innen und Interessierte, die sich mit offenen Daten beschäftigen möchten. Gemeinsam analysieren wir Passantendaten aus Würzburg, Augsburg und Bamberg und lernen dabei, wie man öffentlich verfügbare Daten nutzt, aufbereitet und visualisiert.
+## Notebook-Ziele und Inhalte
 
-## Workshop-Ziele und Inhalte
+Dieser Notebook richtet sich an Einsteiger:innen und Interessierte, die sich mit offenen Daten beschäftigen möchten. Gemeinsam analysieren wir Passantendaten aus Würzburg, Augsburg und Bamberg und lernen dabei, wie man öffentlich verfügbare Daten nutzt, aufbereitet und visualisiert.
 
-Dieser Workshop richtet sich an Einsteiger:innen und Interessierte, die offene Daten praktisch auswerten möchten. Gemeinsam analysieren wir Passantenfrequenzen in bayerischen Innenstädten und lernen dabei, wie man unterschiedliche offene Datensätze lädt, vereinheitlicht und interpretiert.
+## Notebook-Ziele und Inhalte
+
+Dieses Notebook richtet sich an Einsteiger:innen und Interessierte, die sich mit offenen Daten beschäftigen möchten. Gemeinsam analysieren wir Passantendaten aus Würzburg, Augsburg und Bamberg und lernen dabei, wie man öffentlich verfügbare Daten nutzt, aufbereitet und visualisiert.
 
 ### Was erwartet dich?
 
@@ -43,23 +53,15 @@ Das Notebook ist grob in folgende Abschnitte gegliedert:
 
 ## Vorbereitung
 
-- [ ] Notebook über MyBinder oder Colab öffnen
-- [ ] Sich mit der Jupyter Notebook-Oberfläche vertraut machen
+- Notebook über Colab öffnen
+- Sich mit der Jupyter Notebook-Oberfläche vertraut machen
 
-## Während des Workshops
+## Weitere Analysemöglichkeiten
 
-- [ ] Schritt für Schritt durch das Notebook arbeiten
-- [ ] Code-Zellen ausführen und Ergebnisse interpretieren
-- [ ] Unterschiede zwischen den Städten beobachten und diskutieren
-- [ ] Eigene Fragen an die Daten formulieren
-- [ ] Eigene Varianten ausprobieren, zum Beispiel andere Zeiträume oder Zählstellen
-
-## Nach dem Workshop
-
-- [ ] Saisonale Trends über längere Zeiträume untersuchen
-- [ ] Den Einfluss von Wetter und Feiertagen analysieren
-- [ ] Weitere Städte oder zusätzliche Datenquellen einbinden
-- [ ] Eigene Visualisierungen und Fragestellungen entwickeln
+- Saisonale Trends über längere Zeiträume untersuchen
+- Den Einfluss von Wetter und Feiertagen analysieren
+- Weitere Städte oder zusätzliche Datenquellen einbinden
+- Eigene Visualisierungen und Fragestellungen entwickeln
 
 ## Erworbenes Know-how
 
