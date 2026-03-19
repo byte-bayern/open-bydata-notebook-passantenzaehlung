@@ -1,6 +1,6 @@
 # Workshop: Passantenzählung in Würzburg analysieren
 
-In Binder öffnen: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/byte-bayern/open-bydata-notebook-passantenzaehlung/5f0db062dd40ac41691c0e844220a2f6f0132f51?urlpath=lab%2Ftree%2Fpassantenzaehlung_data_story.ipynb)
+In Binder öffnen: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/byte-bayern/open-bydata-notebook-passantenzaehlung/b5afdcb946c75f0560f07e1b389d10779ddd0f8b?urlpath=lab%2Ftree%2Fpassantenzaehlung_data_story.ipynb)
 
 In Google Colab öffnen: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/byte-bayern/open-bydata-notebook-passantenzaehlung/blob/main/passantenzaehlung_data_story.ipynb) (Google-Konto notwendig)
 
