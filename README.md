@@ -16,10 +16,6 @@ Weitere Informationen über die Ausführungen von Notebooks findet man auf diese
 
 ## Notebook-Ziele und Inhalte
 
-Dieser Notebook richtet sich an Einsteiger:innen und Interessierte, die sich mit offenen Daten beschäftigen möchten. Gemeinsam analysieren wir Passantendaten aus Würzburg, Augsburg und Bamberg und lernen dabei, wie man öffentlich verfügbare Daten nutzt, aufbereitet und visualisiert.
-
-## Notebook-Ziele und Inhalte
-
 Dieses Notebook richtet sich an Einsteiger:innen und Interessierte, die sich mit offenen Daten beschäftigen möchten. Gemeinsam analysieren wir Passantendaten aus Würzburg, Augsburg und Bamberg und lernen dabei, wie man öffentlich verfügbare Daten nutzt, aufbereitet und visualisiert.
 
 ### Was erwartet dich?
